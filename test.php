@@ -4,4 +4,6 @@ adding more lines to see the working
 line4
 line5
 line6
-make changes  
+make changes
+remind me the cmds that are useful in git to make 
+it work properly  
